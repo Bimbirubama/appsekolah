@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appsekolah</string>
+    <string name="title_activity_detail_sekolah_maps">DetailSekolahMapsActivity</string>
+    <string name="title_activity_maps_sekolah">MapsSekolahActivity</string>
+    <string name="API_KEY_MAP">AIzaSyBo0Rj0fWs0BWqK_6v5MSuE4QbKcN1_sO4</string>
+
+</resources>
